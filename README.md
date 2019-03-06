@@ -1,6 +1,7 @@
 # Welcome to BEAR-Necessities-Market
 [![GitHub license](https://img.shields.io/badge/license-GPL%20V3-blue.svg)](https://github.com/LibreFoodPantry/BEAR-Necessities-Market/blob/master/LICENSE.md)
 [![Build Status](https://travis-ci.com/LibreFoodPantry/BEAR-Necessities-Market.svg?branch=master)](https://travis-ci.com/LibreFoodPantry/BEAR-Necessities-Market)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
 
 ## [React v16.8.1](https://facebook.github.io/react/) Frontend
 - [material-ui](https://material-ui.com/) for drop in material components
